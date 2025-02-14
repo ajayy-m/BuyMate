@@ -18,7 +18,7 @@ body {
     color: white;
     text-transform: uppercase;
     letter-spacing: 5px;
-    text-shadow: 4px 4px 15px rgba(245, 244, 244, 0), 
+    text-shadow: 4px 4px 15px rgba(201, 201, 201, 0), 
                  2px 2px 10px rgba(246, 247, 246, 0.7);
     background: linear-gradient(45deg, #fcfbf9, #f1efee);
     -webkit-background-clip: text;
@@ -76,7 +76,7 @@ button {
 }
 
 button:hover {
-    background: #218838;
+    background: #21883700;
 }
 
 .toggle-btn {
